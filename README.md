@@ -1,4 +1,4 @@
-<img width="349" height="366" alt="Screenshot 2026-06-12 at 8 35 55 PM" src="https://github.com/user-attachments/assets/a9cdb759-f11a-4eb0-933a-d1a2bce48026" /># DSA-FINAL-PROJECT
+# DSA-FINAL-PROJECT
 
 # Enterprise Knowledge Documentation Core
 
